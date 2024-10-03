@@ -1,0 +1,15 @@
+{
+  "name": "mutebutton",
+  "version": "1.0.0",
+  "description": "Makes the Dreamcheeky big red button behave like a hardware mute button in linux",
+  "main": "index.js",
+  "dependencies": {
+    "usb": "^2.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thor",
+  "license": "MIT"
+}
